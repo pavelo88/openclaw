@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "generatedAt": "2026-06-09T02:41:22.786Z",
+  "reason": "gateway.startup_failed",
+  "process": {
+    "pid": 89739,
+    "platform": "darwin",
+    "arch": "x64",
+    "node": "22.22.2",
+    "uptimeMs": 2568
+  },
+  "host": {
+    "hostname": "<redacted-hostname>"
+  },
+  "error": {
+    "name": "Error",
+    "message": "Invalid config at /Users/macbook2019/.openclaw/openclaw.json. <root>: Invalid input Run \"openclaw doctor --fix\" to repair, then retry. If startup is still blocked, inspect the adjacent .bak backup before restoring it manually."
+  },
+  "snapshot": {
+    "generatedAt": "2026-06-09T02:41:22.786Z",
+    "capacity": 1000,
+    "count": 0,
+    "dropped": 0,
+    "events": [],
+    "summary": {
+      "byType": {}
+    }
+  }
+}

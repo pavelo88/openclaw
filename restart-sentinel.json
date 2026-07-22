@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "payload": {
+    "kind": "update",
+    "status": "error",
+    "ts": 1781301468170,
+    "sessionKey": "agent:main:dashboard:3773da6d-9f7b-4691-ac84-1bf2b99521be",
+    "message": null,
+    "doctorHint": "Recommended follow-up: run openclaw doctor --non-interactive in a terminal or approvals-capable OpenClaw surface.",
+    "stats": {
+      "mode": "git",
+      "root": "/Users/macbook2019/.openclaw",
+      "before": {
+        "sha": null,
+        "version": "2026.6.2"
+      },
+      "after": null,
+      "steps": [
+        {
+          "name": "clean check",
+          "command": "git -C /Users/macbook2019/.openclaw status --porcelain -- :!dist/control-ui/",
+          "cwd": "/Users/macbook2019/.openclaw",
+          "durationMs": 18,
+          "log": {
+            "stdoutTail": null,
+            "stderrTail": "fatal: not a git repository (or any of the parent directories): .git",
+            "exitCode": 128
+          }
+        },
+        {
+          "name": "git checkout main",
+          "command": "git -C /Users/macbook2019/.openclaw checkout main",
+          "cwd": "/Users/macbook2019/.openclaw",
+          "durationMs": 18,
+          "log": {
+            "stdoutTail": null,
+            "stderrTail": "fatal: not a git repository (or any of the parent directories): .git",
+            "exitCode": 128
+          }
+        }
+      ],
+      "reason": "checkout-failed",
+      "durationMs": 106
+    }
+  }
+}

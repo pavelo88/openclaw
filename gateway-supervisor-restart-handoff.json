@@ -1,0 +1,1 @@
+{"kind":"gateway-supervisor-restart-handoff","version":1,"intentId":"bf7ad572-651f-4c83-bcb4-1739bbaec08a","pid":89930,"processInstanceId":"1876db90-518f-4307-83ef-316e6298576a","createdAt":1780973132474,"expiresAt":1780973192474,"source":"unknown","restartKind":"full-process","supervisorMode":"launchd"}

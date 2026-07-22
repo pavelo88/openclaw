@@ -1,0 +1,93 @@
+{
+  "2a85b602a845d6aee60ddbfc2d96f8681d014439ce9f0f217e2d20d626f809b2": {
+    "deviceId": "2a85b602a845d6aee60ddbfc2d96f8681d014439ce9f0f217e2d20d626f809b2",
+    "publicKey": "Ge4q97o2rPROPkfPIGBHIf4qaf80wDt8oW0rExMVpeg",
+    "platform": "MacIntel",
+    "clientId": "openclaw-control-ui",
+    "clientMode": "webchat",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.admin",
+      "operator.read",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "approvedScopes": [
+      "operator.admin",
+      "operator.read",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "kk8TL0xSOjuDSxvfzKP18mSsIpx8gXASX3seJfboibM",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing",
+          "operator.read",
+          "operator.write"
+        ],
+        "issuer": {
+          "kind": "shared-gateway-auth",
+          "generation": "TNJ-MecgLbTO1UHBqp_6HYaSDBzaUHsGN5KoavIHAqE"
+        },
+        "createdAtMs": 1780973325287,
+        "rotatedAtMs": 1780979920973,
+        "lastUsedAtMs": 1781304237842
+      }
+    },
+    "createdAtMs": 1780973325286,
+    "approvedAtMs": 1780973325286,
+    "lastSeenAtMs": 1781304237842,
+    "lastSeenReason": "device-token-auth"
+  },
+  "053415dc04c342e2372aadc6d7b7c0480a5a9f6732e715309570e0d0b1fea37d": {
+    "deviceId": "053415dc04c342e2372aadc6d7b7c0480a5a9f6732e715309570e0d0b1fea37d",
+    "publicKey": "UWdObYiH6T3flWmVIP5_PlUO6YQ-6XW1dxdUSni7QeY",
+    "displayName": "MacBook Pro de macbook (2)",
+    "platform": "macos",
+    "deviceFamily": "Mac",
+    "clientId": "node-host",
+    "clientMode": "node",
+    "role": "node",
+    "roles": [
+      "operator",
+      "node"
+    ],
+    "scopes": [
+      "operator.read"
+    ],
+    "approvedScopes": [
+      "operator.read"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "AMU6mKmGBTi1RzBIhA7UBI_bTl7AJVM9yH_DJpgKC7M",
+        "role": "operator",
+        "scopes": [
+          "operator.read"
+        ],
+        "createdAtMs": 1780973404321,
+        "lastUsedAtMs": 1780979694473,
+        "revokedAtMs": 1780979915978
+      },
+      "node": {
+        "token": "tLOUPgH2Y8FqPyNSmK0PSpCNpW5S977gB3K1KurALwE",
+        "role": "node",
+        "scopes": [],
+        "createdAtMs": 1780982753537
+      }
+    },
+    "createdAtMs": 1780973404321,
+    "approvedAtMs": 1780982753537,
+    "lastSeenAtMs": 1781313724806,
+    "lastSeenReason": "connect"
+  }
+}

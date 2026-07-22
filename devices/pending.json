@@ -1,0 +1,20 @@
+{
+  "b99773d5-e3e9-4854-9633-73ea5ed1d477": {
+    "requestId": "b99773d5-e3e9-4854-9633-73ea5ed1d477",
+    "deviceId": "053415dc04c342e2372aadc6d7b7c0480a5a9f6732e715309570e0d0b1fea37d",
+    "publicKey": "UWdObYiH6T3flWmVIP5_PlUO6YQ-6XW1dxdUSni7QeY",
+    "platform": "darwin",
+    "clientId": "cli",
+    "clientMode": "cli",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.read"
+    ],
+    "silent": false,
+    "isRepair": true,
+    "ts": 1780994431270
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "socket": {
+    "path": "/Users/macbook2019/.openclaw/.openclaw/exec-approvals.sock",
+    "token": "mmhYS3lNxnbTF23feT5Eq88C9Adbz8AU"
+  },
+  "defaults": {},
+  "agents": {}
+}

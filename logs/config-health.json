@@ -1,0 +1,37 @@
+{
+  "entries": {
+    "/Users/macbook2019/.openclaw/openclaw.json": {
+      "lastKnownGood": {
+        "hash": "aa8aa0f6af3a33399215607251264ce0333bdd8e8b66e78df3dc3aadbd2a1efc",
+        "bytes": 10223,
+        "mtimeMs": 1780982448769.024,
+        "ctimeMs": 1780982448769.024,
+        "dev": "16777221",
+        "ino": "13417515",
+        "mode": 384,
+        "nlink": 1,
+        "uid": 501,
+        "gid": 20,
+        "hasMeta": true,
+        "gatewayMode": "local",
+        "observedAt": "2026-07-17T18:35:47.053Z"
+      },
+      "lastObservedSuspiciousSignature": null,
+      "lastPromotedGood": {
+        "hash": "aa8aa0f6af3a33399215607251264ce0333bdd8e8b66e78df3dc3aadbd2a1efc",
+        "bytes": 10223,
+        "mtimeMs": 1780982448769.024,
+        "ctimeMs": 1780982448769.024,
+        "dev": "16777221",
+        "ino": "13417515",
+        "mode": 33152,
+        "nlink": 1,
+        "uid": 501,
+        "gid": 20,
+        "hasMeta": true,
+        "gatewayMode": "local",
+        "observedAt": "2026-06-12T21:53:07.842Z"
+      }
+    }
+  }
+}

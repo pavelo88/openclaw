@@ -1,0 +1,23 @@
+{
+  "157d11d5-8e87-4aab-abbc-2ff733b81a6c": {
+    "requestId": "157d11d5-8e87-4aab-abbc-2ff733b81a6c",
+    "nodeId": "053415dc04c342e2372aadc6d7b7c0480a5a9f6732e715309570e0d0b1fea37d",
+    "displayName": "MacBook Pro de macbook (2)",
+    "platform": "macos",
+    "version": "2026.6.2",
+    "deviceFamily": "Mac",
+    "caps": [
+      "system",
+      "browser",
+      "file"
+    ],
+    "commands": [
+      "system.run.prepare",
+      "system.run",
+      "system.which",
+      "browser.proxy"
+    ],
+    "silent": false,
+    "ts": 1781313724859
+  }
+}
